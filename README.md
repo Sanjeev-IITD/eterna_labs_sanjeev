@@ -10,7 +10,7 @@ A production-grade mock DEX order execution engine with real-time WebSocket upda
 
 ## Live Demo
 
-**Demo Video**: [https://www.youtube.com/watch?v=-EXJfExSJpw&list=PLO7aCdOhwKLCsIy09aPKp8LLfGL1-csPw](Youtube video link)
+**Demo Video**: [Youtube video link](https://www.youtube.com/watch?v=-EXJfExSJpw&list=PLO7aCdOhwKLCsIy09aPKp8LLfGL1-csPw)
 
 ---
 
@@ -318,7 +318,7 @@ NODE_ENV=production
 
 ## Demo Video
 
-**YouTube**: [Watch the Demo](https://youtu.be/your-video-id)
+**YouTube**: [Youtube video link](https://www.youtube.com/watch?v=-EXJfExSJpw&list=PLO7aCdOhwKLCsIy09aPKp8LLfGL1-csPw)
 
 The demo showcases:
 - Submitting 5 simultaneous orders
